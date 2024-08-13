@@ -12892,5 +12892,13 @@
         "author": "Technerium",
         "description": "Graph of the Number of Files in the Vault.",
         "repo": "technerium/obsidian-vault-size-history"
-    }
+    },
+    {
+        "id": "backtick-text-selector",
+	"name": "Backtick text selector",
+	"author": "Ram Rachum",
+	"description": "Easily select text in backticks",
+  	"repo": "cool-RR/backtick-text-selector"
+    },
+
 ]
